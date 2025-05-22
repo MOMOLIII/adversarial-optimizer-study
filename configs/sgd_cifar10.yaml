@@ -1,0 +1,7 @@
+alpha: 0.007
+batch_size: 128
+epochs: 10
+eps: 0.031
+lr: 0.01
+optimizer: sgd
+pgd_steps: 7
